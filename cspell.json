@@ -1,0 +1,15 @@
+{
+  "dictionaryDefinitions": [
+    {
+      "name": "colomney-lints",
+      "path": "./dictionaries/colomney-lints.txt"
+    }
+  ],
+  "dictionaries": ["colomney-lints"],
+  "ignorePaths": [
+    "*.freezed.dart",
+    "*.g.dart",
+    "/lib/generated_plugin_registrant.dart"
+  ],
+  "enabledLanguageIds": ["dart"]
+}

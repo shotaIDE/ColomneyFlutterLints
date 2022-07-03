@@ -1,0 +1,12 @@
+name: colomney_lints
+description: Personalized lint rules used by colomney.
+version: 0.0.1
+homepage: https://github.com/shotaIDE/ColomneyFlutterLints
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter_lints: ^2.0.1
+  dart_code_metrics: ^4.16.0
