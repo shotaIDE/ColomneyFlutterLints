@@ -14,8 +14,9 @@ Add the following code in your `pubspec.yaml`.
 ```yaml:pubspec.yaml
 dev_dependencies:
   colomney_lints:
-    hosted: https://github.com/shotaIDE/ColomneyFlutterLints
-    version: ^0.0.1
+    git:
+      url: git@github.com:shotaIDE/ColomneyFlutterLints.git
+      ref: main
 ```
 
 ### 2. Specify the analysis_options.yaml
