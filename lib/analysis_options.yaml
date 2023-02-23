@@ -43,7 +43,6 @@ linter:
     - deprecated_consistency
     - directives_ordering
     - flutter_style_todos
-    - invariant_booleans
     - join_return_with_assignment
     - lines_longer_than_80_chars
     - literal_only_boolean_expressions

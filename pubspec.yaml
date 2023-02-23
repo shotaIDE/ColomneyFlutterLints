@@ -1,6 +1,6 @@
 name: colomney_lints
 description: Personalized lint rules used by colomney.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/shotaIDE/ColomneyFlutterLints
 
 environment:
