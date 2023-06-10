@@ -3,9 +3,9 @@ include: package:flutter_lints/flutter.yaml
 analyzer:
   plugins:
     - dart_code_metrics
-  strong-mode:
-    implicit-casts: false
-    implicit-dynamic: false
+  language:
+    strict-inference: false
+    strict-raw-types: false
   errors:
     invalid_annotation_target: ignore
 
